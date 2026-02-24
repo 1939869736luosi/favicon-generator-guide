@@ -109,13 +109,31 @@ Framer/Linear style, no text, simple geometric shapes, clean lines
 
 ## 方案4：开源图标库（即拿即用）
 
-### 核心资源
+### 核心资源（4 大推荐）
 
-**🌟 Iconify — 最大的开源图标集合**
+**🌟 Iconify — 最大的开源图标聚合平台**
 - 地址：https://icon-sets.iconify.design/
 - 200,000+ 图标，200+ 图标集
 - 支持 SVG 下载、CDN 引用、npm 包
-- 完全免费、开源
+- 一站式搜索所有主流图标库
+
+**🎯 Phosphor Icons — 最灵活的图标体系**
+- 地址：https://phosphoricons.com/
+- 9,000+ 图标，**6 种粗细**（Thin / Light / Regular / Bold / Fill / Duotone）
+- 同一个图标 × 6 种风格 = 无限适配可能
+- MIT 许可，支持 React / Vue / Flutter / Figma
+
+**📐 Tabler Icons — 最精准的像素对齐图标**
+- 地址：https://tabler.io/icons
+- 5,700+ 图标，全部 24×24 像素对齐
+- 1.5px 统一线宽，极致精准
+- MIT 许可，专为 UI 设计师打造
+
+**🗂️ SVG Repo — 最大的综合 SVG 资源库**
+- 地址：https://www.svgrepo.com/
+- 500,000+ SVG 图标和插画
+- 支持按颜色、风格、集合筛选
+- 混合许可证（需注意每个图标的具体许可）
 
 ### 其他推荐图标库
 
@@ -123,10 +141,7 @@ Framer/Linear style, no text, simple geometric shapes, clean lines
 |-------|------|------|------|
 | **Lucide** | https://lucide.dev | 线条简约 | 1,500+ |
 | **Heroicons** | https://heroicons.com | Tailwind 官方 | 300+ |
-| **Phosphor** | https://phosphoricons.com | 6 种粗细 | 1,200+ |
-| **Tabler Icons** | https://tabler.io/icons | 线条像素对齐 | 5,000+ |
 | **Remix Icon** | https://remixicon.com | 填充+线条 | 2,800+ |
-| **SVG Repo** | https://www.svgrepo.com | 综合集合 | 500,000+ |
 | **SVGL** | https://svgl.app | 品牌 Logo SVG | 品牌集合 |
 
 ### 使用方式
